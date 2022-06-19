@@ -1,1 +1,0 @@
-document.write("JavaScript is enabled on this site.");
